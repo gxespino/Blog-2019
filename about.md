@@ -5,14 +5,14 @@ permalink: about/
 profile: true
 ---
 
-<p>I'm a software developer based in Washington DC. Formerly, I was a registered nurse specializing in mental health and orthopedic post op care. A few years ago I turned a lifelong hobby into a second career.
+<p>I'm a software engineer based in Washington DC. Formerly, I was a registered nurse specializing in mental health and orthopedic post op care. A few years ago I turned a lifelong hobby into a second career.
 
 <p>This site features articles regarding coding, nursing, and startups - also occasional essays on topics I'm interested in, which could pretty much be anything.</p>
 
 <h3>How I work</h3>
 <p>I enjoy leveling up developers around me and enjoy pair programming both in person and remotely.</p>
 
-<p>When possible, I am proponent of TDD, SRP, object oriented and domain driven design. I enjoy design patterns and code abstractions but have come to learn the value of pragmaticism through the years, often switching to 'Get Shit Done' mode when the situation warrants it.</p>
+<p>When possible, I am proponent of TDD, SRP, object oriented and domain driven design. I enjoy design patterns and code abstractions but have come to learn the value of pragmatism through the years, often switching to 'Get Shit Done' mode when the situation warrants it.</p>
 
 <p>Most days I strive to be a git commit perfectionist. I work to elevate documentation and git standards on every team I'm on.</p>
 
