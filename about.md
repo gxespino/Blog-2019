@@ -12,7 +12,7 @@ profile: true
 <h3>How I work</h3>
 <p>I enjoy leveling up developers around me and enjoy pair programming both in person and remotely.</p>
 
-<p>When possible, I am proponent of TDD, SRP, object oriented and domain driven design. I enjoy design patterns and code abstractions but have come to learn the value of pragmatism through the years, often switching to 'Get Shit Done' mode when the situation warrants it.</p>
+<p>Most of the time, I'm a proponent of TDD, SRP, object oriented and domain driven design. I enjoy design patterns and code abstractions but have come to learn the value of pragmatism through the years, often switching to 'Get Shit Done' mode when the situation warrants it.</p>
 
 <p>Most days I strive to be a git commit perfectionist. I work to elevate documentation and git standards on every team I'm on.</p>
 
