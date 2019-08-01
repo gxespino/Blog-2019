@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Descriptive RSpec Tests"
-date:   2015-12-02 08:08:17
 categories: Ruby RSpec Testing
 ---
 

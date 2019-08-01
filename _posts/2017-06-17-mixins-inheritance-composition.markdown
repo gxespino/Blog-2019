@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "You Should Be Defaulting to Composition"
-date:   2017-06-12 10:02:13
 categories: Ruby Rails Refactoring
 ---
 

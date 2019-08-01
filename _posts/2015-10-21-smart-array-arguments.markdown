@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Smart Array Arguments"
-date:   2015-10-21 12:08:17
 categories: Ruby
 ---
 
